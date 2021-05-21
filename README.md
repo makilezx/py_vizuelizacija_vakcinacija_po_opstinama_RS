@@ -1,4 +1,4 @@
-Vizuelizacija broja vakcinisanih gradjana u odnosu na punoletnu populaciju (po opstinama).
+Vizuelizacija broja vakcinisanih gradjana u odnosu na punoletnu populaciju (po opstinama). Za vizuelizaciju su koriscene biblioteke Folium i Seaborn.
 
 Izvor podataka: stampa/Blic
 
