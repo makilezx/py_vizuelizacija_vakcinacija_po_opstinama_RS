@@ -1,4 +1,4 @@
-Vizuelizacija broja vakcinisanih gradjana u odnosu na punoletnu populaciju (po opstinama). Za vizuelizaciju su koriscene biblioteke Folium i Seaborn.
+Vizuelizacija broja vakcinisanih gradjana po opstinama. Obradjeno tj. prikazano je ~45 opstina sa najvecim brojem vakcinisanih u u odnosu na punoletnu populaciju, kao i opstina sa najmanjim brojem vakcinisanih. Za vizuelizaciju su koriscene biblioteke Folium i Seaborn.
 
 Izvor podataka: stampa/Blic
 
