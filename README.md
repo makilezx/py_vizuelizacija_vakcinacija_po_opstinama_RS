@@ -2,7 +2,7 @@ Vizuelizacija broja vakcinisanih gradjana po opstinama. Obradjeno tj. prikazano 
 
 [NBviewer](https://nbviewer.jupyter.org/github/makilezx/py_vizuelizacija_vakcinacija_po_opstinama_RS/blob/main/vakcinacija_opstine.ipynb)
 
-Izvor podataka: dnevna stampa/Blic
+Izvor podataka: mediji
 
 Primeri:
 
